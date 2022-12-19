@@ -152,6 +152,12 @@ body {
     gap: 1rem;
   }
 
+  .section-btn:hover,
+  .section-btn:active {
+    background-color: var(--primary-shades) ;
+    color: var(--white);
+  }
+
    .search-icon {
     position: absolute;
     margin-right: 55rem;
@@ -241,6 +247,6 @@ body {
 
   .box:hover,
   .box:active {
-    background-color: var(--primary-shades);
+    background-color: darkgrey ;
     color: var(--white);
   }
