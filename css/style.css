@@ -154,7 +154,7 @@ body {
 
   .section-btn:hover,
   .section-btn:active {
-    background-color: var(--primary-shades) ;
+    background-color: var(--para-color) ;
     color: var(--white);
   }
 
